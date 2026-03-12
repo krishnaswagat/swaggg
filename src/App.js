@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <div className="app-container">
-      <h1 className="gallery-title"><center>Image Gallery</center> </h1>
+      <h1 className="gallery-title"><center>Image Galleries</center> </h1>
 
       <div className="gallery-container">
         {images.map((src, index) => (
